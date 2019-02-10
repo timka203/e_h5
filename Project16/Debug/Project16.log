@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\users\тимур\source\repos\project16\project16\source.cpp(9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\тимур\source\repos\project16\project16\source.cpp(90): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\тимур\source\repos\project16\project16\source.cpp(25): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\тимур\source\repos\project16\project16\source.cpp(46): note: выполняется компиляция ссылки на экземпляр шаблон функции "int func2<int>(t [],int,int &)"
+          with
+          [
+              t=int
+          ]
+c:\users\тимур\source\repos\project16\project16\source.cpp(58): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\тимур\source\repos\project16\project16\source.cpp(80): note: выполняется компиляция ссылки на экземпляр шаблон функции "void func<int>(t [],int)"
+          with
+          [
+              t=int
+          ]
+c:\users\тимур\source\repos\project16\project16\source.cpp(66): warning C4018: <: несоответствие типов со знаком и без знака
+  Project16.vcxproj -> C:\Users\Тимур\source\repos\Project16\Debug\Project16.exe
